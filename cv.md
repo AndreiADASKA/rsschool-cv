@@ -16,9 +16,9 @@ I am a purposeful person, a team player, assiduous, trainable!!
 - HTML
 - CSS,SCSS
 - Gulp
-- Git
 - JavaScript(Basic)
 - Figma
+- VSCode
 
 ## Experience
 
