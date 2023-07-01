@@ -13,7 +13,7 @@
 
 ## About me
 
-I am a purposeful person, a team player, assiduous, trainable!
+I am a purposeful person, a team player, assiduous, trainable!!
 
 ---
 
