@@ -2,7 +2,7 @@
 
 ## Contacts
 
-- **Location**: Grodno, Belarus
+- **Location**: Grodno,Belarus
 - **Phone**: +375 29 88-39-664
 - **Email**: a4adaska@gmail.com
 - **GitHub**: https://github.com/AndreiADASKA
@@ -25,10 +25,11 @@ I am a purposeful person, a team player, assiduous, trainable!!
 ## Code Example
 
 ```
+let result;
 function multi(a, b) {
 return a * b;
 }
-let result = multi(10, 20);
+result = multi(10, 20);
 console.log( result );
 
 
@@ -36,7 +37,7 @@ console.log( result );
 
 ## Education
 
-University: GRSU,civil engineer
+University: GRSU,civil-engineer
 
 ## English
 
