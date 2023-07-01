@@ -1,21 +1,15 @@
 # Andrei Adaska
 
----
-
 ## Contacts
 
-**Location**: Grodno, Belarus
-**Phone**: +375 29 88-39-664
-**Email**: a4adaska@gmail.com
-**GitHub**: https://github.com/AndreiADASKA
-
----
+- **Location**: Grodno, Belarus
+- **Phone**: +375 29 88-39-664
+- **Email**: a4adaska@gmail.com
+- **GitHub**: https://github.com/AndreiADASKA
 
 ## About me
 
 I am a purposeful person, a team player, assiduous, trainable!!
-
----
 
 ## Skills
 
@@ -24,12 +18,9 @@ I am a purposeful person, a team player, assiduous, trainable!!
 - Gulp
 - Git
 - JavaScript(Basic)
-
----
+- Figma
 
 ## Experience
-
----
 
 ## Code Example
 
@@ -40,19 +31,13 @@ return a * b;
 let result = multi(10, 20);
 console.log( result );
 
-let a
-```
 
----
+```
 
 ## Education
 
 University: GRSU,civil engineer
 
----
-
 ## English
 
 A1
-
----
